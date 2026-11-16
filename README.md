@@ -1,5 +1,11 @@
 # Pomodoro
 
+
+<img width="167" height="217" alt="image" src="https://github.com/user-attachments/assets/8a7b94b0-dbfa-4e21-a4c0-56b6b12598ec" />
+
+<img width="231" height="139" alt="image" src="https://github.com/user-attachments/assets/5f407133-9845-4087-9fd3-f8f1f1e244fe" />
+
+
 A tiny macOS menu bar pomodoro timer: a ~200 KB app with no dependencies.
 
 - 15, 25 or 50 minute pomodoros. There's no pause: Stop throws the pomodoro away.
